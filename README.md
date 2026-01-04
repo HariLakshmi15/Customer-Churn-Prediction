@@ -3,6 +3,9 @@
 This project predicts whether a customer is likely to churn using an Artificial Neural Network (ANN).  
 The entire workflow was developed and executed using **Google Colab**.
 
+⚠️ Note: GitHub may not render the notebook preview due to file size.  
+Please download the notebook and open it in Google Colab or Jupyter Notebook.
+
 ## 📌 Problem Statement
 Customer churn is a critical problem for subscription-based businesses.  
 This project aims to identify customers who are at risk of leaving so that retention strategies can be applied.
