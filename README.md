@@ -49,6 +49,9 @@ This project aims to identify customers who are at risk of leaving so that reten
 ## ✅ Output
 - Churn probability score
 - Prediction indicating whether the customer is likely to stay or churn
+- <img width="1022" height="860" alt="image" src="https://github.com/user-attachments/assets/d8bc7c29-129f-4997-a18a-dace49178df3" />
+- 
+
 
 ## 👩‍💻 Author
 Harilakshmi Subhash  
